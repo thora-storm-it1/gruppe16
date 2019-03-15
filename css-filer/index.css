@@ -48,3 +48,17 @@
 	background-color: #20B2AA;
 	
 }
+
+.footer	table	{
+	border-collapse: collapse;
+}
+
+.footer	table	th	{
+	border: 1px solid;
+	padding: 5px;
+}
+
+.footer	table	td	{
+	border: solid 1px;
+	padding: 5px;
+}
